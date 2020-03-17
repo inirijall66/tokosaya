@@ -2,8 +2,6 @@
 -- version 4.0.4.1
 -- http://www.phpmyadmin.net
 --
--- Inang: 127.0.0.1
--- Waktu pembuatan: 01 Apr 2019 pada 15.30
 -- Versi Server: 5.5.32
 -- Versi PHP: 5.4.19
 
