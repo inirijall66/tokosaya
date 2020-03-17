@@ -1,5 +1,5 @@
 # Aplikasi Toko Online Kain Tenun
-Aplikasi ini merupakan tugas mata kuliah workshop web frame work IV, yang dibangun dengan framewaork CodeIgniter 3.1.xx
+Aplikasi ini merupakan tugas mata kuliah workshop web frame work semester 4, yang dibangun dengan framewaork CodeIgniter 3.1.xx
 
 Tema Aplikasi : Tekstil
 
